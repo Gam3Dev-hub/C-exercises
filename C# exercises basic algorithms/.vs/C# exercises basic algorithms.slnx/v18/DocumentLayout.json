@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\Lexicon\\C# basics\\C# exercises basic algorithms\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\C-exercises\\C# exercises basic algorithms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{835CC401-3AA4-EBCC-5C38-AEF43D0B97FB}|C# exercises basic algorithms\\C# exercises basic algorithms.csproj|c:\\users\\daniel\\documents\\lexicon\\c# basics\\c# exercises basic algorithms\\c# exercises basic algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{835CC401-3AA4-EBCC-5C38-AEF43D0B97FB}|C# exercises basic algorithms\\C# exercises basic algorithms.csproj|c:\\users\\daniel\\documents\\c-exercises\\c# exercises basic algorithms\\c# exercises basic algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{835CC401-3AA4-EBCC-5C38-AEF43D0B97FB}|C# exercises basic algorithms\\C# exercises basic algorithms.csproj|solutionrelative:c# exercises basic algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,19 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\Lexicon\\C# basics\\C# exercises basic algorithms\\C# exercises basic algorithms\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\C-exercises\\C# exercises basic algorithms\\C# exercises basic algorithms\\Program.cs",
               "RelativeDocumentMoniker": "C# exercises basic algorithms\\Program.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Documents\\Lexicon\\C# basics\\C# exercises basic algorithms\\C# exercises basic algorithms\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\C-exercises\\C# exercises basic algorithms\\C# exercises basic algorithms\\Program.cs",
               "RelativeToolTip": "C# exercises basic algorithms\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
