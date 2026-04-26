@@ -12,3 +12,18 @@ C:\Users\Daniel\Documents\Lexicon\C# basics\C# exercises basic algorithms\C# exe
 C:\Users\Daniel\Documents\Lexicon\C# basics\C# exercises basic algorithms\C# exercises basic algorithms\obj\Debug\net10.0\C# exercises basic algorithms.pdb
 C:\Users\Daniel\Documents\Lexicon\C# basics\C# exercises basic algorithms\C# exercises basic algorithms\obj\Debug\net10.0\C# exercises basic algorithms.genruntimeconfig.cache
 C:\Users\Daniel\Documents\Lexicon\C# basics\C# exercises basic algorithms\C# exercises basic algorithms\obj\Debug\net10.0\ref\C# exercises basic algorithms.dll
+C:\Users\Daniel\Documents\C-exercises\C# exercises basic algorithms\C# exercises basic algorithms\bin\Debug\net10.0\C# exercises basic algorithms.exe
+C:\Users\Daniel\Documents\C-exercises\C# exercises basic algorithms\C# exercises basic algorithms\bin\Debug\net10.0\C# exercises basic algorithms.deps.json
+C:\Users\Daniel\Documents\C-exercises\C# exercises basic algorithms\C# exercises basic algorithms\bin\Debug\net10.0\C# exercises basic algorithms.runtimeconfig.json
+C:\Users\Daniel\Documents\C-exercises\C# exercises basic algorithms\C# exercises basic algorithms\bin\Debug\net10.0\C# exercises basic algorithms.dll
+C:\Users\Daniel\Documents\C-exercises\C# exercises basic algorithms\C# exercises basic algorithms\bin\Debug\net10.0\C# exercises basic algorithms.pdb
+C:\Users\Daniel\Documents\C-exercises\C# exercises basic algorithms\C# exercises basic algorithms\obj\Debug\net10.0\C# exercises basic algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\C-exercises\C# exercises basic algorithms\C# exercises basic algorithms\obj\Debug\net10.0\C# exercises basic algorithms.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\C-exercises\C# exercises basic algorithms\C# exercises basic algorithms\obj\Debug\net10.0\C# exercises basic algorithms.AssemblyInfo.cs
+C:\Users\Daniel\Documents\C-exercises\C# exercises basic algorithms\C# exercises basic algorithms\obj\Debug\net10.0\C# exercises basic algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\C-exercises\C# exercises basic algorithms\C# exercises basic algorithms\obj\Debug\net10.0\C# exercises basic algorithms.sourcelink.json
+C:\Users\Daniel\Documents\C-exercises\C# exercises basic algorithms\C# exercises basic algorithms\obj\Debug\net10.0\C# exercises basic algorithms.dll
+C:\Users\Daniel\Documents\C-exercises\C# exercises basic algorithms\C# exercises basic algorithms\obj\Debug\net10.0\refint\C# exercises basic algorithms.dll
+C:\Users\Daniel\Documents\C-exercises\C# exercises basic algorithms\C# exercises basic algorithms\obj\Debug\net10.0\C# exercises basic algorithms.pdb
+C:\Users\Daniel\Documents\C-exercises\C# exercises basic algorithms\C# exercises basic algorithms\obj\Debug\net10.0\C# exercises basic algorithms.genruntimeconfig.cache
+C:\Users\Daniel\Documents\C-exercises\C# exercises basic algorithms\C# exercises basic algorithms\obj\Debug\net10.0\ref\C# exercises basic algorithms.dll

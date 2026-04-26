@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel\\Documents\\Lexicon\\C# basics\\C# exercises basic algorithms\\C# exercises basic algorithms\\C# exercises basic algorithms.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel\\Documents\\C-exercises\\C# exercises basic algorithms\\C# exercises basic algorithms\\C# exercises basic algorithms.csproj",
       "projectName": "C# exercises basic algorithms",
-      "projectPath": "C:\\Users\\Daniel\\Documents\\Lexicon\\C# basics\\C# exercises basic algorithms\\C# exercises basic algorithms\\C# exercises basic algorithms.csproj",
+      "projectPath": "C:\\Users\\Daniel\\Documents\\C-exercises\\C# exercises basic algorithms\\C# exercises basic algorithms\\C# exercises basic algorithms.csproj",
       "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel\\Documents\\Lexicon\\C# basics\\C# exercises basic algorithms\\C# exercises basic algorithms\\obj\\",
+      "outputPath": "C:\\Users\\Daniel\\Documents\\C-exercises\\C# exercises basic algorithms\\C# exercises basic algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

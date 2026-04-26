@@ -9,12 +9,12 @@ namespace C__exercises_basic_algorithms
         static void Main(string[] args)
         {
             //Triple sums for equal integers
-            Console.WriteLine("Sum of numbers will be trippled if they are the same");
             //TripleSumForEqualInt();
             //AbsoluteDifferenceWithTriple();
             //ThirtyOrSumThirty();
             //WithinTenOfOneHundredOrTwoHundred();
-            AddIfToStringIfAbscent();
+            //AddIfToStringIfAbscent();
+            RemoveCharFromList();
 
         }
 
@@ -22,6 +22,7 @@ namespace C__exercises_basic_algorithms
 
         static protected int TripleSumForEqualInt()
         {
+            Console.WriteLine("Sum of numbers will be trippled if they are the same");
             Console.WriteLine("Write first number to add: \t");
             int a = int.Parse(Console.ReadLine());
             Console.Write("Write first number to add: \t");
@@ -123,6 +124,44 @@ namespace C__exercises_basic_algorithms
             outputString = "If " + inputString;
             Console.WriteLine(outputString);
             return outputString;
+        }
+
+        static protected List<char> RemoveCharFromList()
+        {
+            List<char> inputList = new List<char>();
+            int indexToRemove;
+            Console.Write("Write a string to add to the list \t");
+            String inputString = Console.ReadLine();
+            foreach(char letter in inputString)
+            {
+                inputList.Add(letter);
+            }
+            Console.Write($"Input which index to remove in the list[index between {0} and {inputList.Count - 1}] ");
+            try
+            {
+                indexToRemove = int.Parse(Console.ReadLine());
+                inputList.RemoveAt(indexToRemove);
+            }
+            catch(FormatException)
+            {
+                Console.WriteLine($"Wrong format exception, please provide a number between {0} and {inputList.Count - 1}]");
+                indexToRemove = int.Parse(Console.ReadLine());
+                inputList.RemoveAt(indexToRemove);
+            }
+            /*
+            finally
+            {
+                Console.WriteLine($"Wrong format exception, please provide a number between {0} and {inputList.Count - 1}]");
+                indexToRemove = int.Parse(Console.ReadLine());
+                inputList.RemoveAt(indexToRemove);
+            }
+            */
+
+            foreach (char letter in inputList)
+            {
+                Console.Write(letter);
+            }
+            return inputList;
         }
     }
 }
