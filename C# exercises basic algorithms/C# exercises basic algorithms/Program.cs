@@ -15,7 +15,6 @@ namespace C__exercises_basic_algorithms
             //WithinTenOfOneHundredOrTwoHundred();
             //AddIfToStringIfAbscent();
             RemoveCharFromList();
-
         }
 
 
@@ -140,13 +139,22 @@ namespace C__exercises_basic_algorithms
             try
             {
                 indexToRemove = int.Parse(Console.ReadLine());
-                inputList.RemoveAt(indexToRemove);
+                if(indexToRemove <= inputList.Count - 1)
+                {
+                    Console.WriteLine($"Removing char from index: {indexToRemove}");
+                    Console.WriteLine($"Removing char: {inputList[indexToRemove]} from list");
+                    inputList.RemoveAt(indexToRemove);
+                }
+                else if(indexToRemove > inputList.Count -1)
+                {
+                    Console.WriteLine("Index out of range exception encountered");
+                    RemoveCharFromList();
+                }
             }
             catch(FormatException)
             {
                 Console.WriteLine($"Wrong format exception, please provide a number between {0} and {inputList.Count - 1}]");
-                indexToRemove = int.Parse(Console.ReadLine());
-                inputList.RemoveAt(indexToRemove);
+                RemoveCharFromList();
             }
             /*
             finally
