@@ -13,7 +13,8 @@ namespace C__exercises_basic_algorithms
             //TripleSumForEqualInt();
             //AbsoluteDifferenceWithTriple();
             //ThirtyOrSumThirty();
-            WithinTenOfOneHundredOrTwoHundred();
+            //WithinTenOfOneHundredOrTwoHundred();
+            AddIfToStringIfAbscent();
 
         }
 
@@ -98,5 +99,30 @@ namespace C__exercises_basic_algorithms
             
         }
 
+        static protected string AddIfToStringIfAbscent()
+        {
+            Console.WriteLine("Write a string with or without if");
+            String inputString = Console.ReadLine();
+            String outputString;
+            int numIterations = 0;
+            Console.WriteLine($"Input string length: {inputString.Length}");
+            for (int i = 0; i < inputString.Length; i++) 
+            {
+                numIterations++;
+                Console.WriteLine($"{inputString[i]} at index: {i}");
+                if (inputString[i] == 'i' && inputString[i + 1] == 'f')
+                {
+                    Console.WriteLine($"{inputString[i + 1]} at index: {i+1}");
+                    Console.Write("succsess! ");
+                    Console.WriteLine($"if was found at index: {i} and {i+1}");
+                    return inputString;
+                }
+            }
+            Console.WriteLine($"Number of iterations: {numIterations}");
+            Console.WriteLine("\"if\" was not found in your string! It was subsequently added to the front of your string");
+            outputString = "If " + inputString;
+            Console.WriteLine(outputString);
+            return outputString;
+        }
     }
 }

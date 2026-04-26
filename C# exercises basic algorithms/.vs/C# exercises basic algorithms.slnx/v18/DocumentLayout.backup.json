@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +24,7 @@
               "RelativeDocumentMoniker": "C# exercises basic algorithms\\Program.cs",
               "ToolTip": "C:\\Users\\Daniel\\Documents\\Lexicon\\C# basics\\C# exercises basic algorithms\\C# exercises basic algorithms\\Program.cs",
               "RelativeToolTip": "C# exercises basic algorithms\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAgwHgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T12:01:59.667Z",
               "EditorCaption": ""
