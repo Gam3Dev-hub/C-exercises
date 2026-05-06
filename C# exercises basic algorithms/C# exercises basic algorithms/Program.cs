@@ -1,4 +1,5 @@
-﻿using static System.Math;
+﻿using System.Text;
+using static System.Math;
 
 namespace C__exercises_basic_algorithms
 {
@@ -14,7 +15,13 @@ namespace C__exercises_basic_algorithms
             //ThirtyOrSumThirty();
             //WithinTenOfOneHundredOrTwoHundred();
             //AddIfToStringIfAbscent();
-            RemoveCharFromList();
+            //RemoveCharFromList();
+            //ReplaceLetters();
+            //ReplaceLetters();
+            //FirstTwoFourTimes();
+            //LastCharFrontAndBack();
+            //MultipleOfThreeOrSeven();
+            EvenOrOddBitwise();
         }
 
 
@@ -170,6 +177,72 @@ namespace C__exercises_basic_algorithms
                 Console.Write(letter);
             }
             return inputList;
+        }
+        
+
+        static protected void ReplaceLetters()
+        {
+            StringBuilder sb = new StringBuilder(Console.ReadLine());
+            char firstChar = sb[0];
+            char lastChar = sb[sb.Length - 1];
+            String outputString = lastChar + sb.ToString().Substring(1, sb.Length -2) + firstChar;
+            Console.WriteLine(outputString);
+        }
+
+        static protected void FirstTwoFourTimes()
+        {
+            Console.WriteLine("Write a string to duplicate fist two characters 4 times");
+            String userInput = Console.ReadLine();
+            if (userInput.Length <= 2)
+                Console.WriteLine(userInput);
+            else
+                for (int i = 0; i < 4; i++)
+                    Console.Write($"{userInput.Substring(0, 2)} ");
+        }
+
+        static protected void LastCharFrontAndBack()
+        {
+            Console.WriteLine("Write a sentence or word to add last letter in front and back");
+            StringBuilder sb = new StringBuilder(Console.ReadLine());
+            char lastchar = sb[sb.Length - 1];
+            String outputString;
+            if (sb.Length < 1)
+                Console.WriteLine(sb.ToString());
+            else
+            {
+                outputString = lastchar + sb.ToString() + lastchar;
+                Console.WriteLine(outputString);
+            }
+        }
+        static protected bool MultipleOfThreeOrSeven()
+        {
+            int userInput = int.Parse(Console.ReadLine());
+            if (userInput % 3 == 0 || userInput % 7 == 0)
+            {
+                Console.WriteLine(userInput);
+                return true;
+            }
+            else
+                Console.WriteLine("not a multiple of 3 or 7");
+            return false;
+                
+        }
+
+        static protected bool EvenOrOddBitwise()
+        {
+            int userinput = int.Parse(Console.ReadLine());
+            bool isEven;
+            if(isEven = (userinput & 1) == 0)
+            {
+                Console.WriteLine(userinput);
+                Console.WriteLine(isEven);
+                return isEven;
+            }
+            else
+            {
+                Console.WriteLine(isEven);
+                return isEven;
+            }
         }
     }
 }

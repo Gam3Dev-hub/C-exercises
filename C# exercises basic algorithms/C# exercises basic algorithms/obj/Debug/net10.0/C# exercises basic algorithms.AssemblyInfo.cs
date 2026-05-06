@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# exercises basic algorithms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4aaccb38dff4631beeacd2f15275a87189b610ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a921ef8e759115976d01364967ef5a4cfa7c57e")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# exercises basic algorithms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# exercises basic algorithms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
