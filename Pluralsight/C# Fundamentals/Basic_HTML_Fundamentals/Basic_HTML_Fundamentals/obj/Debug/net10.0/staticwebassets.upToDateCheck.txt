@@ -1,0 +1,18 @@
+wwwroot\Content\CSS\StyleSheet.css
+wwwroot\Content\Images\pexels-andreea-ch-371539-1166644.jpg
+wwwroot\Content\Images\pexels-pixabay-207253.jpg
+wwwroot\Content\Images\pexels-pixabay-268533.jpg
+wwwroot\Content\Images\pexels-pixabay-313563.jpg
+wwwroot\Content\Images\ProfilePic.jpg
+wwwroot\Content\Images\SnowDrop.png
+wwwroot\Content\JS\DateScript.js
+wwwroot\Content\Pages\About.html
+wwwroot\Content\Pages\cv.html
+wwwroot\Content\Pages\hobbies.html
+wwwroot\Index.html
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Basic_HTML_Fundamentals\Basic_HTML_Fundamentals\wwwroot\Content\CSS\StyleSheet.css
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Basic_HTML_Fundamentals\Basic_HTML_Fundamentals\wwwroot\Content\JS\DateScript.js
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Basic_HTML_Fundamentals\Basic_HTML_Fundamentals\wwwroot\Content\Pages\About.html
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Basic_HTML_Fundamentals\Basic_HTML_Fundamentals\wwwroot\Content\Pages\cv.html
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Basic_HTML_Fundamentals\Basic_HTML_Fundamentals\wwwroot\Content\Pages\hobbies.html
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Basic_HTML_Fundamentals\Basic_HTML_Fundamentals\wwwroot\Index.html
