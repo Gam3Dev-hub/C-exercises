@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91E23BAC-2733-4CC1-A8AE-80DBAC2B8437}|Bank\\Bank.csproj|c:\\users\\daniel\\documents\\c-exercises\\pluralsight\\c# fundamentals\\bank\\bank\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E23BAC-2733-4CC1-A8AE-80DBAC2B8437}|Bank\\Bank.csproj|solutionrelative:bank\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E23BAC-2733-4CC1-A8AE-80DBAC2B8437}|Bank\\Bank.csproj|c:\\users\\daniel\\documents\\c-exercises\\pluralsight\\c# fundamentals\\bank\\bank\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E23BAC-2733-4CC1-A8AE-80DBAC2B8437}|Bank\\Bank.csproj|solutionrelative:bank\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E23BAC-2733-4CC1-A8AE-80DBAC2B8437}|Bank\\Bank.csproj|c:\\users\\daniel\\documents\\c-exercises\\pluralsight\\c# fundamentals\\bank\\bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E23BAC-2733-4CC1-A8AE-80DBAC2B8437}|Bank\\Bank.csproj|solutionrelative:bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Bank\\Bank\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank\\Bank.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Bank\\Bank\\Bank.cs*",
+              "RelativeToolTip": "Bank\\Bank.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T19:08:42.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Bank\\Bank\\Account.cs",
+              "RelativeDocumentMoniker": "Bank\\Account.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Bank\\Bank\\Account.cs",
+              "RelativeToolTip": "Bank\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T19:07:50.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Bank\\Bank\\Program.cs",
+              "RelativeDocumentMoniker": "Bank\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Bank\\Bank\\Program.cs",
+              "RelativeToolTip": "Bank\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:56:59.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
