@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\SchoolApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\daniel\\documents\\c-exercises\\pluralsight\\c# fundamentals\\schoolapp\\schoolapp\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\daniel\\documents\\c-exercises\\pluralsight\\c# fundamentals\\schoolapp\\schoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\daniel\\documents\\c-exercises\\pluralsight\\c# fundamentals\\schoolapp\\schoolapp\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\daniel\\documents\\c-exercises\\pluralsight\\c# fundamentals\\schoolapp\\schoolapp\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\daniel\\documents\\c-exercises\\pluralsight\\c# fundamentals\\schoolapp\\schoolapp\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\daniel\\documents\\c-exercises\\pluralsight\\c# fundamentals\\schoolapp\\schoolapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\SchoolApp\\SchoolApp\\Assignment.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Assignment.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\SchoolApp\\SchoolApp\\Assignment.cs",
+              "RelativeToolTip": "SchoolApp\\Assignment.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T05:55:17.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\SchoolApp\\SchoolApp\\School.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\School.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\SchoolApp\\SchoolApp\\School.cs",
+              "RelativeToolTip": "SchoolApp\\School.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA5wBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T05:54:04.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\SchoolApp\\SchoolApp\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Student.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\SchoolApp\\SchoolApp\\Student.cs",
+              "RelativeToolTip": "SchoolApp\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wBwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T05:54:22.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\SchoolApp\\SchoolApp\\Course.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Course.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\SchoolApp\\SchoolApp\\Course.cs",
+              "RelativeToolTip": "SchoolApp\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T05:55:02.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\SchoolApp\\SchoolApp\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\SchoolApp\\SchoolApp\\Teacher.cs",
+              "RelativeToolTip": "SchoolApp\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T05:54:36.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\SchoolApp\\SchoolApp\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\SchoolApp\\SchoolApp\\Program.cs",
+              "RelativeToolTip": "SchoolApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAIwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T05:52:47.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
