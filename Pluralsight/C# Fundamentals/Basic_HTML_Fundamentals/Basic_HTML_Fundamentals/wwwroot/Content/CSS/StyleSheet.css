@@ -1,0 +1,181 @@
+﻿body{
+    background-color:burlywood;
+}
+.container {
+    padding: 0px;
+    display: inline-block;
+/*    position: relative;
+    width: 100%;
+    right: 10px;*/
+}
+
+.about-div {
+    /*    float:left;*/
+    /*    padding-left: 4px;*/
+    /*    padding-right: 4px;*/
+    /*    position: fixed;*/
+    /*    top: 0px;*/
+    /*    left: 0px;*/
+    background-color: #FFF8DC;
+    display: inline-block;
+    position: absolute;
+    /*    bottom: 29px;*/
+    left: 0px;
+    top: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+    .about-div:hover {
+        background-color: #FFD700;
+    }
+.cv-div {
+    /*float: left;*/
+    /*    padding-left: 4px;*/
+    /*    padding-right: 4px;*/
+    /*    position: fixed;*/
+    top:0px;
+    left:79px;    
+    background-color: #FFF8DC;
+    display: inline-block;
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 20px;
+/*    bottom:29px;*/
+    
+}
+    .cv-div:hover {
+        background-color: #FFD700;
+    }
+
+.hobbies-div {
+    /*    float: left;*/
+    /*    padding-left: 4px;*/
+    /*    padding-right: 4px;*/
+    /*    position: fixed;*/
+    /*    top: 0px;*/
+    /*    left: 75px;*/
+    background-color: #FFF8DC;
+    display: inline-block;
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 20px;
+    /*bottom:29px;*/
+    left:141px;
+    top:0px;
+}
+    .hobbies-div:hover {
+        background-color: #FFD700;
+    }
+.articles-div {
+    /*    float:none;*/
+    overflow: hidden;
+    /*    position: fixed;*/
+    /*    top: 0px;*/
+    /*    left: 134px;*/
+    /*    text-align: center;*/
+    background-color: #FFF8DC;
+    display: inline-block;
+    position: absolute;
+/*    bottom:9px;
+    right:20px;*/
+    padding-left: 20px;
+    padding-right: 20px;
+    left:230px;
+    top:0px;
+    width:200px;
+}
+.articles-div:hover{
+/*    background-color:green;*/
+}
+.articles-div:hover ul{
+    display:block;
+}
+
+.articles-div ul{
+    display:none;
+/*    position:absolute;*/
+}
+    .articles-div ul li a:hover {
+        background-color: #FFD700;
+    }
+.articles-div ul li a{
+   
+}
+
+.science-div {
+    /*    float:none;*/
+    overflow: hidden;
+    /*    position: fixed;*/
+    width: 20%;
+    text-align: center;
+    background-color: #FFF8DC;
+    display: inline-block;
+    position: absolute;
+    left:450px;
+    top:0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.science-div ul{
+    text-align:center;
+
+
+}
+.science-div ul{
+    display:none;
+}
+
+.science-div:hover ul{
+    display:block;
+}
+.science-div:hover{
+/*    background-color:green;*/
+}
+    .science-div ul li a:hover {
+        background-color: #FFD700;
+    }
+
+
+.games-portfolio-div {
+    display: inline-block;
+    background-color: #FFF8DC;
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 20px;
+    left:740px;
+    top:0px;
+}
+
+    .games-portfolio-div:hover {
+        background-color: #FFD700;
+    }
+
+    .games-portfolio-div ul li a:hover {
+        background-color: #FFD700;
+    }
+
+
+.nav-list-elements{
+    text-align:center;
+    font-size:16px;
+}
+a {
+    color: #4B8BBE;
+    text-align: center;
+    text-decoration: none;
+}
+    a:visited {
+        color: #ac4e2c;
+    }
+
+table {
+    width: 100%;
+}
+img {
+    width: 15%;
+    height: 25%;
+}
+td{
+   text-align:center;
+}
