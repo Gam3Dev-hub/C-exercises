@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Customer>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+@* <div>
+	@foreach (var item in Model)
+	{
+		<div class="card mb-3">
+			<div class="card-body">
+				<partial name="_CustomerPartial" model="item" />
+				<a href="@item.Email" class="btn btn-primary">Learn More</a>
+			</div>
+		</div>
+	}
+</div> *@
