@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Learning CSS</title>
+    <meta charset="utf-8" />
+    <style type="text/css">
+
+        /* CSS HERE */
+        body{
+            font-family:Arial;
+            background-color:#b0a6a6;
+        }
+        .container{
+            width:1000px;
+            margin:auto;
+        }
+        .navigation {
+            background-color: black;
+            color: white;
+            padding-bottom:20px;
+        }
+            .navigation ul li {
+                display: inline-block;
+                
+            }
+        .navigation ul li a{
+            text-decoration:none;
+        }
+        .active {
+            background-color: darkorange;
+        }
+        .main-content {
+            width: 65%;
+            float: left;
+            background-color:antiquewhite;
+            display:flex;
+            flex-direction:column;
+            
+        }
+        .side-content {
+            width: 35%;
+            display: flex;
+            flex-direction: column;
+           
+        }
+        .article {
+            border: 1px solid black;
+            padding: 10px;
+            margin: 10px;
+        }
+        #bar {
+            background-color: #00ffff;
+        }
+        #foo {
+            background-color: #ffd800;
+        }
+        strong{
+            color:red;
+        }
+        small {
+            color: blue;
+        }
+        .footer {
+            width: 100%;
+            background-color: black;
+            display:flex;
+            justify-content:center;
+/*            float: left;*/
+        }
+            .footer p {
+                color: white;
+                text-align: center;
+            }
+        a {
+            font-size: 20px;
+            padding: 30px;
+            
+        }
+        .side-content ul li ul li{
+            list-style:disc;
+        }
+        .side-content ul li{
+            list-style:square;
+        }
+        
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="navigation">
+            <h2>Site name</h2>
+            <ul>
+                <li class="active"><a href="#">Hem</a></li>
+                <li><a href="#">Om oss</a></li>
+                <li><a href="#">Kontakta</a></li>
+            </ul>
+        </div>
+        <div class="main-content">
+            <h1>Main content</h1>
+            <h2>A small paragraph!</h2>
+            <p>
+                Nemo enim ipsam
+                voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
+                voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
+                sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima
+                veniam, quis nostrum exercitationem ullam
+            </p>
+            <div class="article">
+                <h2>Article 1</h2>
+                <p>Some inner text belonging to the inner header</p>
+                <p>A second paragraph!</p>
+                <p id="foo">
+                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem <strong>
+                        accusantium doloremque laudantium, totam rem aperiam,
+                        eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae
+                    </strong>vitae dicta sunt explicabo. Nemo enim ipsam
+                    voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
+                    voluptatem sequi nesciunt. <strong>
+                        Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
+                        sed quia non numquam eius modi tempora
+                    </strong> incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima
+                    veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis
+                    autem vel <small>
+                        iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem
+                        eum fugiat quo voluptas nulla pariatur
+                    </small>
+                </p>
+                <p id="bar">
+                    Nemo enim ipsam
+                    voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
+                    voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
+                    sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima
+                    veniam, quis nostrum exercitationem ullam
+                </p>
+            </div>
+            <div class="article">
+                <h2>Article 2</h2>
+                <p>Some inner text belonging to the inner header</p>
+                <p>A second paragraph!</p>
+                <p id="foo">
+                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+                    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
+                    voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
+                    voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
+                    sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima
+                    veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis
+                    autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem
+                    eum fugiat quo voluptas nulla pariatur
+                </p>
+                <p id="bar">
+                    Nemo enim ipsam
+                    voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
+                    voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
+                    sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima
+                    veniam, quis nostrum exercitationem ullam
+                </p>
+            </div>
+        </div>
+        <div class="side-content">
+            <h2 style="margin:10px;">Side content</h2>
+            <ul>
+                <li>
+                    Sweden
+                    <ul>
+                        <li>Stockholm</li>
+                        <li>Gothenbourg</li>
+                        <li>Malmö</li>
+                    </ul>
+                </li>
+                <li>
+                    France
+                    <ul>
+                        <li>Paris</li>
+                        <li>Nice</li>
+                        <li>Louvren</li>
+                    </ul>
+                </li>
+                <li>
+                    USA
+                    <ul>
+                        <li>New York</li>
+                        <li>Los Angeles</li>
+                        <li>San Andreas</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="footer">
+            <p>Copyright</p>
+        </div>
+    </div>
+</body>
+</html>
