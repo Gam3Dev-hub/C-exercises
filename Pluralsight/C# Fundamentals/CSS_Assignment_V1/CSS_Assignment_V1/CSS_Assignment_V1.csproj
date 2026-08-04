@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Content\JS\" />
+    <Folder Include="wwwroot\Content\Images\" />
+    <Folder Include="wwwroot\Content\Pages\" />
+  </ItemGroup>
+
+</Project>

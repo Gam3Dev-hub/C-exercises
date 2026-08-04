@@ -1,0 +1,4 @@
+wwwroot\index.html
+wwwroot\Content\CSS\StyleSheet.css
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\CSS_Assignment_V1\CSS_Assignment_V1\wwwroot\index.html
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\CSS_Assignment_V1\CSS_Assignment_V1\wwwroot\Content\CSS\StyleSheet.css
