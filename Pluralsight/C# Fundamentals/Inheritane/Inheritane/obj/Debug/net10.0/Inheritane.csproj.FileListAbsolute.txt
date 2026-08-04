@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Inheritane\Inheritane\bin\Debug\net10.0\Inheritane.exe
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Inheritane\Inheritane\bin\Debug\net10.0\Inheritane.deps.json
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Inheritane\Inheritane\bin\Debug\net10.0\Inheritane.runtimeconfig.json
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Inheritane\Inheritane\bin\Debug\net10.0\Inheritane.dll
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Inheritane\Inheritane\bin\Debug\net10.0\Inheritane.pdb
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Inheritane\Inheritane\obj\Debug\net10.0\Inheritane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Inheritane\Inheritane\obj\Debug\net10.0\Inheritane.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Inheritane\Inheritane\obj\Debug\net10.0\Inheritane.AssemblyInfo.cs
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Inheritane\Inheritane\obj\Debug\net10.0\Inheritane.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Inheritane\Inheritane\obj\Debug\net10.0\Inheritane.sourcelink.json
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Inheritane\Inheritane\obj\Debug\net10.0\Inheritane.dll
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Inheritane\Inheritane\obj\Debug\net10.0\refint\Inheritane.dll
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Inheritane\Inheritane\obj\Debug\net10.0\Inheritane.pdb
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Inheritane\Inheritane\obj\Debug\net10.0\Inheritane.genruntimeconfig.cache
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Inheritane\Inheritane\obj\Debug\net10.0\ref\Inheritane.dll
