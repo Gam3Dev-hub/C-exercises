@@ -1,0 +1,64 @@
+﻿@model MVCBasicsAssignment1.Models.GuessingGame
+
+
+@{
+       // ViewData["Title"] = "Guessing Game";
+}
+
+
+
+<h1>Guessing Game</h1>
+
+<div>
+	 <p>Guess a number between 1-100!</p> 
+</div>
+
+
+<div class="row">
+	<div class="col-md-4">
+		<form asp-action="GuessingGame" method="post">
+			<div class="form-group">
+				<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+				<label asp-for="UserGuess" class="control-label"></label>
+				<input asp-for="UserGuess" class="form-control" type="number" step="1" value="" min="1" max="100"/>
+				<span asp-validation-for="UserGuess" class="text-danger"></span>
+
+				<div class="form-group">
+					<p>@ViewBag.result</p>
+				</div>
+
+				
+
+				 <div>
+					<p>Guessed Numbers:</p>
+
+					<ul>
+						@foreach (var guess in GuessingGame.GuessedNumbers)
+						{
+							<li>@guess</li>
+						}
+					</ul>
+				</div> 
+				<div>
+					<p>High score</p>
+					<ul>
+						@foreach (var player in GuessingGame.GuessHistory)
+						{
+							<li>@player</li>
+						}
+					</ul>
+				</div>
+				<div class="form-group">
+					<input type="submit" value="Guess" class="btn btn-primary" />
+				</div>
+
+				 <div class="form-group">
+					<label asp-for="name" class="control-label"></label>
+					<input asp-for="name" class="form-control" type="text" maxlength="10"/>
+					<span asp-validation-for="name" class="text-danger"></span>
+					<input type="submit" value="Submit Name" class="btn btn-primary" />
+				</div> 
+			</div>
+		</form>
+	</div>
+</div>
