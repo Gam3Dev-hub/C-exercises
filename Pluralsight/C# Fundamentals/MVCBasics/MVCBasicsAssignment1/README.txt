@@ -1,0 +1,3 @@
+Exercises 1-3 should work exactly as described in the exercise sheet.
+Exercise 4 has some problems. I did not quite figure out how to serialize/deserialize a Json object and pack it into a session object(although I definitely tried). 
+Another issue: you should not be able to add the same book twice; but for some reason it is possible, even though the method being used should check that there are no duplicates. Why can I add the exact same object with exactly the same values? Don't know! I haven't figured out why, yet, and I need to move on to the next set of tasks. I'm sure I could find the issue, eventually, but I'm like Batman, I just need infinite prep time!
