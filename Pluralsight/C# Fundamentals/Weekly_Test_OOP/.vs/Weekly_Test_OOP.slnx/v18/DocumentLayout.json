@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Weekly_Test_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2874F4-02D6-9E72-2C37-0B428DBE00C0}|Weekly_Test_OOP\\Weekly_Test_OOP.csproj|c:\\users\\daniel\\documents\\c-exercises\\pluralsight\\c# fundamentals\\weekly_test_oop\\weekly_test_oop\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2874F4-02D6-9E72-2C37-0B428DBE00C0}|Weekly_Test_OOP\\Weekly_Test_OOP.csproj|solutionrelative:weekly_test_oop\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2874F4-02D6-9E72-2C37-0B428DBE00C0}|Weekly_Test_OOP\\Weekly_Test_OOP.csproj|c:\\users\\daniel\\documents\\c-exercises\\pluralsight\\c# fundamentals\\weekly_test_oop\\weekly_test_oop\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2874F4-02D6-9E72-2C37-0B428DBE00C0}|Weekly_Test_OOP\\Weekly_Test_OOP.csproj|solutionrelative:weekly_test_oop\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2874F4-02D6-9E72-2C37-0B428DBE00C0}|Weekly_Test_OOP\\Weekly_Test_OOP.csproj|c:\\users\\daniel\\documents\\c-exercises\\pluralsight\\c# fundamentals\\weekly_test_oop\\weekly_test_oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2874F4-02D6-9E72-2C37-0B428DBE00C0}|Weekly_Test_OOP\\Weekly_Test_OOP.csproj|solutionrelative:weekly_test_oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2874F4-02D6-9E72-2C37-0B428DBE00C0}|Weekly_Test_OOP\\Weekly_Test_OOP.csproj|c:\\users\\daniel\\documents\\c-exercises\\pluralsight\\c# fundamentals\\weekly_test_oop\\weekly_test_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2874F4-02D6-9E72-2C37-0B428DBE00C0}|Weekly_Test_OOP\\Weekly_Test_OOP.csproj|solutionrelative:weekly_test_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2874F4-02D6-9E72-2C37-0B428DBE00C0}|Weekly_Test_OOP\\Weekly_Test_OOP.csproj|c:\\users\\daniel\\documents\\c-exercises\\pluralsight\\c# fundamentals\\weekly_test_oop\\weekly_test_oop\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2874F4-02D6-9E72-2C37-0B428DBE00C0}|Weekly_Test_OOP\\Weekly_Test_OOP.csproj|solutionrelative:weekly_test_oop\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Weekly_Test_OOP\\Weekly_Test_OOP\\Sale.cs",
+              "RelativeDocumentMoniker": "Weekly_Test_OOP\\Sale.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Weekly_Test_OOP\\Weekly_Test_OOP\\Sale.cs",
+              "RelativeToolTip": "Weekly_Test_OOP\\Sale.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T06:21:26.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Weekly_Test_OOP\\Weekly_Test_OOP\\Employee.cs",
+              "RelativeDocumentMoniker": "Weekly_Test_OOP\\Employee.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Weekly_Test_OOP\\Weekly_Test_OOP\\Employee.cs",
+              "RelativeToolTip": "Weekly_Test_OOP\\Employee.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T06:17:34.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Weekly_Test_OOP\\Weekly_Test_OOP\\Customer.cs",
+              "RelativeDocumentMoniker": "Weekly_Test_OOP\\Customer.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Weekly_Test_OOP\\Weekly_Test_OOP\\Customer.cs",
+              "RelativeToolTip": "Weekly_Test_OOP\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T06:15:16.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Weekly_Test_OOP\\Weekly_Test_OOP\\Person.cs",
+              "RelativeDocumentMoniker": "Weekly_Test_OOP\\Person.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Weekly_Test_OOP\\Weekly_Test_OOP\\Person.cs",
+              "RelativeToolTip": "Weekly_Test_OOP\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T05:59:08.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Weekly_Test_OOP\\Weekly_Test_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Weekly_Test_OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\C-exercises\\Pluralsight\\C# Fundamentals\\Weekly_Test_OOP\\Weekly_Test_OOP\\Program.cs",
+              "RelativeToolTip": "Weekly_Test_OOP\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T05:55:22.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
