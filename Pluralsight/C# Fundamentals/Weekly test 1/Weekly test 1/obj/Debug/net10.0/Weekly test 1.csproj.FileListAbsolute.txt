@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Weekly test 1\Weekly test 1\bin\Debug\net10.0\Weekly test 1.exe
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Weekly test 1\Weekly test 1\bin\Debug\net10.0\Weekly test 1.deps.json
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Weekly test 1\Weekly test 1\bin\Debug\net10.0\Weekly test 1.runtimeconfig.json
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Weekly test 1\Weekly test 1\bin\Debug\net10.0\Weekly test 1.dll
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Weekly test 1\Weekly test 1\bin\Debug\net10.0\Weekly test 1.pdb
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Weekly test 1\Weekly test 1\obj\Debug\net10.0\Weekly test 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Weekly test 1\Weekly test 1\obj\Debug\net10.0\Weekly test 1.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Weekly test 1\Weekly test 1\obj\Debug\net10.0\Weekly test 1.AssemblyInfo.cs
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Weekly test 1\Weekly test 1\obj\Debug\net10.0\Weekly test 1.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Weekly test 1\Weekly test 1\obj\Debug\net10.0\Weekly test 1.sourcelink.json
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Weekly test 1\Weekly test 1\obj\Debug\net10.0\Weekly test 1.dll
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Weekly test 1\Weekly test 1\obj\Debug\net10.0\refint\Weekly test 1.dll
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Weekly test 1\Weekly test 1\obj\Debug\net10.0\Weekly test 1.pdb
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Weekly test 1\Weekly test 1\obj\Debug\net10.0\Weekly test 1.genruntimeconfig.cache
+C:\Users\Daniel\Documents\C-exercises\Pluralsight\C# Fundamentals\Weekly test 1\Weekly test 1\obj\Debug\net10.0\ref\Weekly test 1.dll
