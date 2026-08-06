@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Customer\" />
     <Folder Include="Views\Movie\" />
     <Folder Include="Views\Product\" />
     <Folder Include="Views\VideoGame\" />

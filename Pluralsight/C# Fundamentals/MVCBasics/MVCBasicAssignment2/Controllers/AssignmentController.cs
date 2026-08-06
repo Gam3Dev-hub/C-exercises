@@ -63,28 +63,37 @@ namespace MVCBasicAssignment2.Controllers
             return View(product);
         }
 
-        public IActionResult DeleteProduct(int id)
+       
+
+        public IActionResult Edit(int id) 
         {
-            if (ModelState.IsValid)
-            {
-                _productService.deleteProduct(id);
-                //_dbContext.Products.Remove(product);
-                //_dbContext.SaveChanges();
-                return View();
-            } 
-            return View();
+            var product = _productService.GetProductById(id);
+            return View(product);
         }
 
         [HttpPost]
-        public IActionResult EditProduct(int id)
+        public IActionResult EditProduct(Product product)
         {
             if (ModelState.IsValid)
             {
-                var product = _productService.GetProductById(id);
-                _productService.UpdateProduct(product);
-                return View();
+                //var product = _productService.GetProductById(id);
+                var existingProduct = _productService.GetProductById(product.Id);
+                //var existingProduct = _productService.GetProductById(product.Id);
+                if (existingProduct != null) 
+                {
+                    //_productService.UpdateProduct(existingProduct);
+                    existingProduct.Name = product.Name;
+                    existingProduct.Price = product.Price;
+                    existingProduct.Description = product.Description;
+                    existingProduct.Stock = product.Stock;
+                    _productService.UpdateProduct(existingProduct);
+                    //return View(product);
+                    //return RedirectToAction("Index");
+                }
+                
+                return RedirectToAction("Index");
             }
-            return View();
+            return View(product);
         }
 
 
@@ -104,6 +113,49 @@ namespace MVCBasicAssignment2.Controllers
             return View(customer);
         }
 
+        public IActionResult EditCustomer(int id)
+        {
+            if (ModelState.IsValid)
+            {
+                var customer = _customerService.GetCustomerById(id);
+                return View(customer);
+            }
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult EditCustomer(Customer customer)
+        {
+            if (ModelState.IsValid)
+            {
+                var existingCustomer = _customerService.GetCustomerById(customer.Id);
+                if (existingCustomer != null)
+                {
+                    existingCustomer.FirstName = customer.FirstName;
+                    existingCustomer.LastName = customer.LastName;
+                    existingCustomer.Email = customer.Email;
+                    existingCustomer.Phone = customer.Phone;
+                    _customerService.UpdateCustomer(existingCustomer);
+                }
+                return RedirectToAction("CustomerIndex");
+            }
+            return View(customer);
+        }
+
+
+
+        public IActionResult CustomerDetails(int id)
+        {
+            var customer = _customerService.GetCustomerById(id);
+            return View(customer);
+        }
+
+        public IActionResult ProductDetails(int id)
+        {
+            var product = _productService.GetProductById(id);
+            return View(product);
+        }
+
         public IActionResult _CustomerPartial() 
         {
             return PartialView();
@@ -112,6 +164,28 @@ namespace MVCBasicAssignment2.Controllers
         public IActionResult DisplayCustomerProducts()
         {
             return PartialView();
+        }
+
+        public IActionResult DeleteProduct(int id)
+        {
+            var product = _productService.GetProductById(id);
+            if (product != null)
+            {
+                _productService.deleteProduct(id);
+                return RedirectToAction("Index");
+            }
+            return NotFound();
+        }
+
+        public IActionResult DeleteCustomer(int id)
+        {
+            var customer = _customerService.GetCustomerById(id);
+            if (customer != null)
+            {
+                _customerService.DeleteCustomer(id);
+                return RedirectToAction("CustomerIndex");
+            }
+            return NotFound();
         }
 
         //[HttpPost]

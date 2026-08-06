@@ -25,8 +25,12 @@ namespace MVCBasicAssignment2.Services
         }
         public void UpdateProduct(Product product)
         {
-            _dbContext.Products.Update(product);
-            _dbContext.SaveChanges();
+            var existingProduct = _dbContext.Products.FirstOrDefault(p => p.Id == product.Id);
+            if (existingProduct != null)
+            {
+                _dbContext.Products.Update(product);
+                _dbContext.SaveChanges();
+            }
         }
         public void deleteProduct(int id)
         {
