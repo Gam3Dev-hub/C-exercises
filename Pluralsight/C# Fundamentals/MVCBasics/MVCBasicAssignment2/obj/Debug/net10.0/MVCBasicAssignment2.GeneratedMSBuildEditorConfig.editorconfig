@@ -39,6 +39,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxDcmVhdGVDdXN0b21lci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Daniel/Documents/C-exercises/Pluralsight/C\# Fundamentals/MVCBasics/MVCBasicAssignment2/Views/Assignment/CustomerDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxDdXN0b21lckRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Daniel/Documents/C-exercises/Pluralsight/C\# Fundamentals/MVCBasics/MVCBasicAssignment2/Views/Assignment/CustomerIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxDdXN0b21lckluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -51,8 +55,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Daniel/Documents/C-exercises/Pluralsight/C\# Fundamentals/MVCBasics/MVCBasicAssignment2/Views/Assignment/EditCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxFZGl0Q3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Daniel/Documents/C-exercises/Pluralsight/C\# Fundamentals/MVCBasics/MVCBasicAssignment2/Views/Assignment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daniel/Documents/C-exercises/Pluralsight/C\# Fundamentals/MVCBasics/MVCBasicAssignment2/Views/Assignment/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Daniel/Documents/C-exercises/Pluralsight/C\# Fundamentals/MVCBasics/MVCBasicAssignment2/Views/Customer/Index.cshtml]
@@ -65,6 +77,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Daniel/Documents/C-exercises/Pluralsight/C\# Fundamentals/MVCBasics/MVCBasicAssignment2/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Daniel/Documents/C-exercises/Pluralsight/C\# Fundamentals/MVCBasics/MVCBasicAssignment2/Views/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Daniel/Documents/C-exercises/Pluralsight/C\# Fundamentals/MVCBasics/MVCBasicAssignment2/Views/Shared/Error.cshtml]
