@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCBasicAssignment2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f32bce4c6c3aab8ba7864f126b9ff03f27c65e25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5e92c15b361caa07fd6c06aa7a0abb2abe5be2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCBasicAssignment2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCBasicAssignment2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
